@@ -1,0 +1,26 @@
+
+# Bike Sharing – Data Analysis and Machine Learning
+
+Projektet undersøger historiske cykeludlejninger og bruger Machine Learning til at forudsige antallet af udlejninger pr. time.
+
+## Indhold
+
+- EDA.ipynb – Dataanalyse, datadistribution, outliers og sammenhænge.
+- Modeling.ipynb – Modeltræning, feature engineering, tuning og evaluering.
+- data/hour.csv – Bike Sharing-datasættet.
+- requirements.txt – Nødvendige Python-biblioteker.
+
+## Opsætning
+
+Projektet er udviklet i PyCharm med Python 3.11 og Conda.
+
+Installer bibliotekerne med:
+
+pip install -r requirements.txt
+
+Kør derefter EDA.ipynb og Modeling.ipynb fra toppen.
+
+## Datakilde
+
+UCI Machine Learning Repository – Bike Sharing Dataset
+https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
